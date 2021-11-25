@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.lesson {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.25rem;
+  margin-left: 135px;
+  margin-right: 135px;
+}
+
+.nav__link {
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+.cool {
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+}
+
+.button {
+  width: 152px;
+  height: 58px;
+  background-color: #49AD09;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
